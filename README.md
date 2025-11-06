@@ -18,7 +18,7 @@
 ---
 
 ### 🌟 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niharika-singh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/niharika-singh](https://www.linkedin.com/in/niharika-singh-26125a2b2/))  
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rosechvy)  
 [![Gmail](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharika3n@gmail.com)  
 
